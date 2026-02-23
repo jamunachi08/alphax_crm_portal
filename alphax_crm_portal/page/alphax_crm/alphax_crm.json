@@ -1,0 +1,9 @@
+{
+  "doctype": "Page",
+  "name": "alphax-crm",
+  "page_name": "alphax-crm",
+  "title": "AlphaX CRM",
+  "module": "CRM",
+  "standard": 1,
+  "icon": "sales"
+}

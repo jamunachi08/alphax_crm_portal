@@ -1,0 +1,8 @@
+{
+  "js": [
+    "alphax_crm_portal/public/js/alphax_crm_portal.bundle.js"
+  ],
+  "css": [
+    "alphax_crm_portal/public/css/alphax_crm_portal.bundle.css"
+  ]
+}
